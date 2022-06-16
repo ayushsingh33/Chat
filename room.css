@@ -1,0 +1,35 @@
+body {
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.container {
+    display: flex;
+    flex: 100%;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    height: fit-content;
+}
+
+.joinRoom {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+
+.newRoom{
+    height: fit-content;
+}
+
+#jrBtn{
+    height: 100px;
+    width: 100px;
+}
+
+#nrBtn{
+    height: 100px;
+    width: 100px;
+}
